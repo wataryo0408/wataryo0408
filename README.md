@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **wataryo0408/wataryo0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ### 渡邉凌のGithubへようこそ
 <img src="Swift_logo.png" width=320>
+ここでは企業の皆様へ向けて私がSwiftを学習していく上で作成した制作物の紹介をしています。
+ぜひご覧ください。
